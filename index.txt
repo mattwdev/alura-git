@@ -6,6 +6,8 @@ ID:010153
 ================== TÍTULO =====================
 
 Seja bem vindo a central de cursos da Alura
+Aqui você encontra o curso que você precisa
+para incrementar na sua formação.
 
 ===============================================
 
