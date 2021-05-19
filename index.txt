@@ -3,4 +3,6 @@ Iniciando curso Alura - Git e Github
 Nome: Matheus
 ID:010153
 
-=============== INICIANDO ==============
+================== TÍTULO =====================
+
+Seja bem vindo a central de cursos da Alura
