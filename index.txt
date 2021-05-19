@@ -14,10 +14,15 @@ Selecione qual o curso deseja fazer:
 [1] Java
 [2] Python
 [3] C
-[4] SQL
-[5] Angular
-[6] R
+
+OPÇÃO: [1]
 
 ===============================================
 
-Obrigado por escolher a Alura !!!
+Tudo pronto para você começar o seu curso !!
+Vamos lá ?
+
+[SIM] / [NÃO]
+
+===============================================
+
