@@ -19,3 +19,5 @@ Selecione qual o curso deseja fazer:
 [6] R
 
 ===============================================
+
+Obrigado por escolher a Alura !!!
