@@ -36,3 +36,7 @@ OPÇÃO: [SIM]
 
 ===============================================
 
+Java é uma grande plataforma presente em todo lugar: de corporações à bancos e governo. 
+Desenvolva aplicações robustas com um back-end e construa APIs usando Java, Spring Boot, Hibernate. 
+Escreva testes de unidade, entenda inversão de controle e padrões de projeto. 
+Pratique para certificações e aprofunde-se na Virtual Machine e nas bibliotecas essenciais.
