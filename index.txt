@@ -6,8 +6,8 @@ ID:010153
 ================== TÍTULO =====================
 
 Seja bem vindo a central de cursos da Alura
-<<<<<<< HEAD
-=======
+
+===============================================
 
 Selecione qual o curso deseja fazer:
 
@@ -16,4 +16,8 @@ Selecione qual o curso deseja fazer:
 [3] C
 
 OPÇÃO: [1]
->>>>>>> e31b46fd19bf47af0b4e688ca42274297b35d1ef
+
+===============================================
+
+Tudo pronto para você começar o seu curso.
+Vamos lá ?
