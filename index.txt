@@ -14,4 +14,6 @@ Selecione qual o curso deseja fazer:
 [1] Java
 [2] Python
 [3] C
+
+OPÇÃO: [1]
 >>>>>>> e31b46fd19bf47af0b4e688ca42274297b35d1ef
