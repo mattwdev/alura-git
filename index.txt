@@ -17,6 +17,9 @@ Selecione qual o curso deseja fazer:
 [4] SQL
 [5] Angular
 [6] R
+[7] Git e Github
+[8] C++
+[9] C#
 
 OPÇÃO: [1]
 
