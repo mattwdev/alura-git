@@ -19,5 +19,9 @@ OPÇÃO: [1]
 
 ===============================================
 
-Tudo pronto para você começar o seu curso.
+Tudo pronto para você começar o seu curso !!
 Vamos lá ?
+
+[SIM] / [NÃO]
+
+===============================================
